@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html;
+charset=UTF-8" />
+<title>Wysocki Szymon</title>
+<link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+<div id="container">
+<header>
+  Programowanie w Językach Skryptowych
+</header>
+
+<nav>Menu Strony</nav>
+
+<main>
+<div id="col-left">
+Lewa kolumna:
+<br>
+<ul class="punkt">
+<li><a href="https://moodle.pwsz.elblag.pl/">Moodle PWSZ (Elblag)</a></li>
+
+</ul>
+
+</div>
+<div id="col-center">
+<br>
+<center>
+
+<table id="tabela">
+   <tr>
+      <td rowspan="3" class="inny_wyglad">L.P</td> <td colspan="2"class="inny_wyglad">Osoba</td> <td rowspan="3" colspan="2" class="inny_wyglad">Info</td>
+   </tr>
+   <tr>
+   <td rowspan="2" class="inny_wyglad">Imie</td><td rowspan="2"  class="inny_wyglad">Nazwisko</td>
+   </tr>
+   <tr>
+   </tr>
+   <tr>
+   <td>1</td><td>Jan</td><td>Kowalski</td><td>Student</td>
+   </tr>
+   <tr>
+   <td>2</td><td>Anna</td><td>Nowak</td><td>Student</td>
+   </tr>
+   <tr>
+   <td>3</td><td>Maria</td><td>Kowalska</td><td>Absolwent</td>
+   </tr>
+   <tr>
+   <td>4</td><td>Michał</td><td>Nowak</td><td>Student</td>
+   </tr>
+</table>
+</center>
+<br>
+</div>
+</main>
+<footer>Wysocki Szymon<br>
+18938</footer>
+</div>
+</body>
+
+</html>
